@@ -1,0 +1,6 @@
+{
+  "PLASTICO": {"actual": 3.40, "capacidad": 50.00},
+  "VIDRIO": {"actual": 5.20, "capacidad": 65.00},
+  "PAPEL": {"actual": 2.75, "capacidad": 45.00},
+  "METAL": {"actual": 4.10, "capacidad": 70.00}
+}
