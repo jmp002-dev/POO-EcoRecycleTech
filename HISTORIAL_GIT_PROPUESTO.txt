@@ -1,0 +1,9 @@
+feat: persistencia, logs y documentación
+feat: interfaz Swing y controlador
+feat: modelo de residuos y contenedores
+feat: estructura inicial de carpetas MVC
+chore: inicializar repositorio
+
+El repositorio se ha preparado localmente con las ramas main y develop. Los identificadores de commit pueden consultarse con `git log --oneline --all`.
+
+Para completar la entrega, falta crear el repositorio público POO-EcoRecycleTech en la cuenta personal de GitHub y ejecutar los comandos de asociación y subida indicados en el README.
